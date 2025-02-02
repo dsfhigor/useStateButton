@@ -9,7 +9,6 @@ function App() {
         <h1> Contadores atualizados separadamente. </h1>
         <MyButton />
         <MyButton />
-
       </header>
     </div>
   );
