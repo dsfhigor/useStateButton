@@ -6,9 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>
-          Contadores atualizados separadamente.
-        </h1>
+        <h1> Contadores atualizados separadamente. </h1>
         <MyButton />
         <MyButton />
 
